@@ -4,10 +4,15 @@
 
 The goal is simple: run when and where the air is safest.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/Python-3.13%2B-blue.svg)](https://www.python.org/downloads/)
+[![Field](https://img.shields.io/badge/Urban_Informatics-green.svg)](#)
+[![Field](https://img.shields.io/badge/Environmental_Data_Science-orange.svg)](#)
+[![Field](https://img.shields.io/badge/Public_Health_Tech-purple.svg)](#)
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/30f4f5db-9f51-4e9a-bc24-805dd2bddc87" width="500" height="500" alt="image">
 </p>
-
 
 
 ### ⏳ **Current Stage**
